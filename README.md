@@ -1,0 +1,1 @@
+# multicurrency_module_odoo_ICP
